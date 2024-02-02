@@ -6,7 +6,7 @@
 - 📚 I enjoy reading, investments, and football. I consider myself a kind, responsible, and polite person.
 - 💬 Ask me about computer systems, information technology, and software development. I can help with troubleshooting, system design, and programming questions.
 - 💻 I have expertise in developing RESTful APIs using Node.js and Express, integrating with the frontend using React.
-- 🌱 I’m currently learning **Next.js**, **Nest.js** and **AWS**
+- 🌱 I’m currently learning **Next.js**, **Nest.js** and **AWS**.
 - 📫 How to reach me **matiasagbenitez@gmail.com**
 
 [![Linkedin: matiasagenitez](https://img.shields.io/badge/-matiasagenitez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiasagenitez/)](https://www.linkedin.com/in/matiasagenitez/)
