@@ -47,16 +47,6 @@ const aboutMe = {
     "Discipline",
     "Commitment"
   ],
-
-  challenge: "I rely on discipline and commitment to overcome challenges. With unwavering dedication, I tackle obstacles head-on, driving my pursuit of excellence.",
-
-  introduction: "🚀 Hello there! I'm Matías, a 24-year-old system analyst and junior full-stack web developer. With experience in computer systems analysis and a degree in Information Systems, I bring a solid foundation to my work.",
-
-  techExcitement: "🌐 The dynamic world of technology excites me, and I have a knack for adapting to and learning about new technologies effortlessly. Embracing change is key, and I'm always ready to upskill for the next big thing.",
-
-  collaboration: "🤝 Being a team player is in my DNA. I believe in open communication and collaboration to achieve collective success. I find joy in contributing ideas and working seamlessly with others towards shared goals.",
-
-  contact: "Let's connect! I'm eager for new opportunities, collaborations, and discussions in the tech world. Reach out anytime! 🚀"
 };
 
 ```
