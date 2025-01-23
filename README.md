@@ -1,11 +1,10 @@
 <h1>Hi 👋, I'm Matías</h1>
 <h4>A computer systems analyst, with a degree in information systems, and a developer</h3>
 
-- 🇦🇷 I'm 24 years old, and I'm from Argentina.
+- 🇦🇷 I'm 25 years old, and I'm from Argentina.
 - 👨‍💻 I'm currently working on private app development projects, but I'm actively seeking my first job in IT.
 - 📚 I enjoy reading, investments, and football. I consider myself a kind, responsible, and polite person.
 - 💻 I have expertise in developing RESTful APIs using Node.js and Express, integrating with the frontend using React.
-- 🌱 I’m currently learning **Next.js**, **Nest.js** and **AWS**.
 - 📫 How to reach me **matiasagbenitez@gmail.com**
 
 [![Linkedin: matiasagenitez](https://img.shields.io/badge/-matiasagenitez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiasagenitez/)](https://www.linkedin.com/in/matiasagenitez/)
@@ -13,40 +12,48 @@
 ```javascript
 const aboutMe = {
   name: "Matías",
-  age: 24,
-  occupation: "System Analyst and Junior Full-stack Web Developer",
+  age: 25,
+  occupation: "System Analyst and Full-stack Web Developer",
   education: "Degree in Information Systems",
   experience: "Experienced in computer systems analysis",
 
-  programmingLanguages: ["JavaScript", "TypeScript"],
+  programmingLanguages: ["TypeScript"],
   
-  technologies: {
-    frontEnd: {
-      js: ["React"],
-      css: ["Bootstrap", "Tailwind CSS"],
-      stateManagement: ["Redux"],
-      testing: ["Jest", "React Testing Library"],
-      dataManagement: ["React Query"],
-      navigation: ["React Router DOM"]
+  technical_skills: {
+    backend: {
+      technologies: ["Node.js", "Express", "NestJS"],
+      concepts: ["Clean Architecture", "Design Patterns"],
+      tools: ["GraphQL", "WebSockets (intermediate level)"],
+      current_focus: ["Microservices with NestJS"]
     },
-    backEnd: {
-      js: ["Node.js", "Express.js"],
-      testing: ["Jest"],
-      databases: ["MongoDB", "MySQL", "PostgreSQL"],
-      authenticationAuthorization: ["JWT"]
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      libraries: ["React Router", "Wouter", "Redux Toolkit", "Zustand", "ContextAPI", "TanStack Query"],
+      styling: ["Bootstrap", "TailwindCSS", "shadcn"]
     },
-    miscellaneous: ["Docker", "Git", "GitHub", "Bash"]
+    databases: {
+      relational: ["MySQL", "Postgres"],
+      non_relational: ["MongoDB"],
+    },
+    tools_and_platforms: {
+      containerization: ["Docker"],
+      productivity_and_organization: ["Trello", "Notion"],
+      API_testing: ["Postman", "Insomnia"],
+      version_control: ["Git", "GitHub"]
+    },
+    currently_learning: {
+      cloud_services: ["AWS (Amazon Web Services)"],
+      advanced_architecture: ["Microservices (NestJS)"]
+    },
+    languages: ["spanish", "english", "portuguese"]
   },
 
-  softSkills: [
-    "Team player",
-    "Open communication",
-    "Collaborative mindset",
-    "Adaptability",
-    "Continuous learner",
-    "Discipline",
-    "Commitment"
-  ],
-};
-
+  soft_skills: [
+      "Critical Thinking",
+      "Priority Management",
+      "Goal Setting and Objectives",
+      "Commitment to Quality",
+      "Self-Awareness and Learning"
+    ]
+}
 ```
